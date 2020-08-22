@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ipfs-demo", "ipfs-demo.csproj", "{1A0ABC36-1083-42C2-BFEC-1B210F6F1FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0ABC36-1083-42C2-BFEC-1B210F6F1FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0ABC36-1083-42C2-BFEC-1B210F6F1FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0ABC36-1083-42C2-BFEC-1B210F6F1FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0ABC36-1083-42C2-BFEC-1B210F6F1FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57407FE5-4430-4816-97F9-C6C2B4867C67}
+	EndGlobalSection
+EndGlobal
