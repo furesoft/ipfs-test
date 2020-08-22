@@ -29,6 +29,13 @@ namespace ipfs_demo
             {
                 Console.Write("-> ");
                 var msg = Console.ReadLine();
+
+                if(msg == "/stop")
+                {
+                    await ipfs.StopAsync();
+                    return;
+                }
+
                 await ipfs.PubSub.PublishAsync("furesoft", msg);
 
             }
